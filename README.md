@@ -23,7 +23,6 @@ applied AI and distributed / high-performance systems. English C1.*
 | [**crypto-marketplace**](https://github.com/Pabcat222/crypto-marketplace) | Marketplace cliente-servidor en Python con PBKDF2, 2FA por TOTP, cifrado de conversaciones y una PKI X.509 propia |
 | [**ai-meal-planner**](https://github.com/Pabcat222/ai-meal-planner) | Planificador de comidas controlado por voz y gestos, con Gemini (visión y texto) y el móvil como segunda pantalla |
 | [**ARQUITECTURA**](https://github.com/CodificandoAlonso/ARQUITECTURA) | Procesador de imágenes en C++ con variantes AOS y SOA, optimizado para rendimiento y eficiencia energética (en equipo) |
-| [**Ej_Omnesia**](https://github.com/Pabcat222/Ej_Omnesia) | CLI en Python sin dependencias que clasifica documentación aduanera en expedientes y detecta incidencias |
 
 ### 💼 Experiencia
 
